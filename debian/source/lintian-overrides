@@ -1,0 +1,4 @@
+python-zstandard source: no-debian-changes
+python-zstandard source: source-contains-prebuilt-windows-binary
+python-zstandard source: source-is-missing
+python-zstandard source: source-package-encodes-python-version

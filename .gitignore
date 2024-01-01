@@ -12,3 +12,6 @@ target/
 venv/
 venv3/
 zstandard.egg-info/
+.cargo/
+.pybuild/
+vendor/

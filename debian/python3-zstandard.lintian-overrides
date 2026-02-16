@@ -1,0 +1,4 @@
+python3-zstandard: copyright-without-copyright-notice
+python3-zstandard: initial-upload-closes-no-bugs
+python3-zstandard: no-manual-page
+python3-zstandard: zero-byte-file-in-doc-directory
